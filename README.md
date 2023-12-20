@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development With PHP Framework
 - 🌱 I have learnt.I'm currently practicing ...PHP;JAVA SCRIPT;JQUERY;LARAVAL;REACT JS;VUE JS;WORDPRESS;
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me abdullahalnazad850@gmail.com
 
 <!---
 Abdullah-Al-Nazad/Abdullah-Al-Nazad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
